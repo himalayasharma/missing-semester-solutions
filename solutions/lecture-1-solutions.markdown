@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Lecture 1: The Shell "
+title: "Lecture 1 - The Shell "
 permalink: /lecture-1-the-shell/
 ---
 
