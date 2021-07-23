@@ -1,6 +1,7 @@
 ---
 layout: page
-title: "Lecture 1 - The Shell "
+title: "Lecture 1 - The Shell"
+nav_order: 2
 permalink: /lecture-1-the-shell/
 ---
 

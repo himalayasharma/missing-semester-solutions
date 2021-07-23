@@ -32,14 +32,15 @@ description: >- # this means to ignore newlines until "baseurl:"
 # Web
 baseurl: "/missing-semester-solutions" # the subpath of your site, e.g. /blog
 url: "https://himalayasharma.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-remote-theme: pmarsceill/just-the-docs
+
 
 twitter_username: HimSha1997
-github_username:  himalayasharma
+github_username: himalayasharma
 
 permalink: pretty
 
 # Build settings
+remote-theme: pmarsceill/just-the-docs
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
