@@ -13,7 +13,7 @@ by [Himalaya Sharma](https://github.com/himalayasharma)
 {: .fs-5 }
 [View project on Github](https://github.com/himalayasharma){: .btn .btn-purple }
 
-All the shell commands and scripts mentioned here are my version of solutions to the exercises of MIT's Missing Semester 2020 course. Please feel free to give suggestions in case you find something wrong in the commands/scripts or if something could be implemented more efficiently.
+All the shell commands and scripts mentioned here are my version of solutions to the exercises of MIT's Missing Semester 2020 course. I've added some explanations with the code along with some reference links for additional information. Please feel free to give suggestions in case you find something wrong in the commands/scripts or if something could be implemented more efficiently.
 
 Also if you like the content please give a star to the repo on [Github here](https://github.com/himalayasharma).
 
