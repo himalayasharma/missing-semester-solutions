@@ -5,6 +5,7 @@ nav_order: 2
 permalink: /lecture-1-the-shell/
 ---
 # Lecture 1 - Course overview + the shell
+{: .fs-7 }
 \
 [View lecture](https://www.youtube.com/watch?v=Z56Jmr9Z34Q){: .btn .mr-2 }
 [View lecture notes](https://missing.csail.mit.edu/2020/course-shell/){: .btn }
@@ -52,6 +53,7 @@ permalink: /lecture-1-the-shell/
 
 1.  Write the following into that file, one line at a time:
     {: .fw-500 }
+    
     ```
     #!/bin/sh
     curl --head --silent https://missing.csail.mit.edu
