@@ -84,7 +84,7 @@ aux_links_new_tab: true
 
 # Footer content
 # appears at the bottom of every page's main content
-footer_content: "Copyright &copy; 2021 Himalaya Sharma. Distributed by an <a href=\"https://github.com/himalayasharma/missing-semester-solutions/blob/gh-pages/LICENSE\">MIT license.</a>"
+footer_content: "<a href=\"https://github.com/pmarsceill/just-the-docs\">Jekyll theme</a> by <a href=\"https://github.com/pmarsceill\">Patrick Marsceill.</a>"
 
 # Footer last edited timestamp
 last_edit_timestamp: false # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
