@@ -24,15 +24,15 @@ description: >- # this means to ignore newlines until "baseurl:"
   My personal version of solutions to the exercises of MIT's Missing Semester course.
   Hope it helps!
 
-# Local
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-theme: just-the-docs
+# # Local
+# baseurl: "" # the subpath of your site, e.g. /blog
+# url: "" # the base hostname & protocol for your site, e.g. http://example.com
+# theme: just-the-docs
 
-# # Web
-# baseurl: "/missing-semester-solutions" # the subpath of your site, e.g. /blog
-# url: "https://himalayasharma.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-# remote_theme: pmarsceill/just-the-docs
+# Web
+baseurl: "/missing-semester-solutions" # the subpath of your site, e.g. /blog
+url: "https://himalayasharma.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+remote_theme: pmarsceill/just-the-docs
 
 twitter_username: HimSha1997
 github_username: himalayasharma
