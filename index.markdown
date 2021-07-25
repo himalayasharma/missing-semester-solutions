@@ -11,7 +11,6 @@ permalink: /
 {: .fs-7 }
 by [Himalaya Sharma](https://github.com/himalayasharma)
 {: .fs-5 }
-[View project on Github](https://github.com/himalayasharma){: .btn .btn-purple }
 
 <!-- Place this tag where you want the button to render. -->
 <a class="github-button" href="https://github.com/himalayasharma" aria-label="Follow @himalayasharma on GitHub">Follow @himalayasharma</a>
