@@ -4,11 +4,11 @@ title: "Lecture 3 - Editors (Vim)"
 nav_order: 3
 permalink: /lecture-3-editors-vim/
 ---
-# Lecture 1 - Course overview + the shell
+# Lecture 3 - Editors (Vim)
 {: .fs-7 }
 \
-[View lecture](https://www.youtube.com/watch?v=Z56Jmr9Z34Q){: .btn .mr-2 }
-[View lecture notes](https://missing.csail.mit.edu/2020/course-shell/){: .btn }
+[View lecture](https://www.youtube.com/watch?v=a6Q8Na575qc&list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J&index=4){: .btn .mr-2 }
+[View lecture notes](https://missing.csail.mit.edu/2020/editors/){: .btn }
 
 ## Exercises
 {: .fs-6}
@@ -33,5 +33,14 @@ permalink: /lecture-3-editors-vim/
     ![Scroll down to the bottom of the 'Startup' tab](/images/Windows-terminal-3.jpg "Scroll down to the bottom of the 'Startup' tab.")
 
     - Close 'Windows Terminal' and restart the application.
+
+1. Download our [basic vimrc](/2020/files/vimrc) and save it to `~/.vimrc`. Read
+   through the well-commented file (using Vim!), and observe how Vim looks and
+   behaves slightly differently with the new config.
+   {: .fw-500 }
+
+   Self-explanatory.
+
+
 
 
