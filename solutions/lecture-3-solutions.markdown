@@ -22,7 +22,7 @@ permalink: /lecture-3-editors-vim/
 
     - Click on the 'Settings' option in dropdown.
     
-    ![Click on the 'Settings' option in dropdown](/images/Windows-terminal-1.jpg "Click on the 'Settings' option in dropdown.")
+    ![Click on the 'Settings' option in dropdown](/assets/images/Windows-terminal-1.jpg "Click on the 'Settings' option in dropdown.")
 
     - Scroll down to the bottom of the 'Startup' tab.
 
